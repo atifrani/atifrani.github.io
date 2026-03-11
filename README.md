@@ -2,9 +2,12 @@
 <h3 align="center">Cloud • Data • AI Solution Architect</h3>
 
 <p align="center">
-Designing modern cloud and data platforms | AWS | Data Engineering | DevOps | MLOps
+  <img src="images/axel.jpg" width="180" style="border-radius:50%">
 </p>
 
+<p align="center">
+Designing modern cloud and data platforms | AWS | Data Engineering | DevOps | MLOps
+</p>
 ---
 
 ## About Me
@@ -13,9 +16,10 @@ Cloud, Data and AI Solution Architect focused on building **scalable cloud-nativ
 
 I work on designing systems that combine:
 
-- cloud infrastructure
-- data engineering pipelines
-- machine learning platforms
+- Data, Cloud and AI architecture
+- Cloud infrastructure
+- Data engineering pipelines
+- Machine learning platforms
 - DevOps and automation
 
 My goal is to help organizations transform **data into reliable, production-grade systems**.
@@ -28,7 +32,7 @@ I also share knowledge through educational repositories and technical content.
 
 **Cloud Architecture**
 
-- AWS cloud services
+- Cloud services
 - Infrastructure as Code
 - Cloud-native architecture
 - Distributed systems
@@ -38,7 +42,7 @@ I also share knowledge through educational repositories and technical content.
 - Data Lakes
 - Data Warehouses
 - Lakehouse architectures
-- Batch and streaming pipelines
+- Data Mesh architectures
 
 **Data Engineering**
 
@@ -111,10 +115,12 @@ I also share knowledge through educational repositories and technical content.
 
 Design of a scalable **cloud-native data platform** implementing modern data architecture patterns including:
 
-- data lake
-- data warehouse
+- Data lake
+- Data warehouse
+- Data Lakehouse
+- Data Mesh
 - ETL pipelines
-- orchestration
+- Orchestration
 
 ---
 
@@ -197,7 +203,7 @@ LinkedIn
 Add your profile link
 
 GitHub  
-https://github.com/YOURUSERNAME
+https://github.com/atifrani
 
 ---
 
