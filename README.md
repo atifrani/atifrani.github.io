@@ -178,11 +178,9 @@ I maintain repositories and learning resources aimed at helping students and eng
 
 # Connect
 
-LinkedIn  
-https://www.linkedin.com/in/axel-tifrani/
+[**LinkedIn**](https://www.linkedin.com/in/axel-tifrani/)
 
-GitHub  
-https://github.com/atifrani
+[**GitHub**](https://github.com/atifrani)
 
 # Vision
 
