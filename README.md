@@ -169,17 +169,17 @@ I maintain repositories and learning resources aimed at helping students and eng
 # GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atifrani&show_icons=true&theme=default"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atifrani"/>
 </p>
 
 # Connect
 
 LinkedIn  
-Add your profile link
+https://www.linkedin.com/in/axel-tifrani/
 
 GitHub  
 https://github.com/atifrani
