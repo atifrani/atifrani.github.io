@@ -27,8 +27,6 @@ My goal is to help organizations transform **data into reliable, production-grad
 
 I also share knowledge through educational repositories and technical content.
 
----
-
 ## Core Expertise
 
 **Cloud Architecture**
@@ -65,8 +63,6 @@ I also share knowledge through educational repositories and technical content.
 - Model deployment
 - Automated ML pipelines
 - Monitoring and governance
-
----
 
 ## Technology Stack
 
@@ -108,8 +104,6 @@ I also share knowledge through educational repositories and technical content.
 <img src="https://img.shields.io/badge/Model%20Deployment-0A66C2">
 </p>
 
----
-
 # Featured Projects
 
 ## Modern Data Platform
@@ -123,8 +117,6 @@ Design of a scalable **cloud-native data platform** implementing modern data arc
 - ETL pipelines
 - Orchestration
 
----
-
 ## AWS Cloud Labs
 
 Hands-on projects demonstrating real-world use of AWS services:
@@ -134,8 +126,6 @@ Hands-on projects demonstrating real-world use of AWS services:
 - networking
 - monitoring
 - security
-
----
 
 ## Data Engineering Pipelines
 
@@ -148,8 +138,6 @@ Topics include:
 - orchestration
 - scalable processing
 
----
-
 ## MLOps Workflows
 
 Implementation of machine learning production pipelines including:
@@ -158,8 +146,6 @@ Implementation of machine learning production pipelines including:
 - automated training
 - model deployment
 - monitoring
-
----
 
 ## MyStepUp
 
@@ -172,8 +158,6 @@ Educational repository containing learning material for students covering:
 - data engineering
 - MLOps
 
----
-
 # Teaching & Knowledge Sharing
 
 I maintain repositories and learning resources aimed at helping students and engineers learn:
@@ -183,8 +167,6 @@ I maintain repositories and learning resources aimed at helping students and eng
 - data engineering practices
 - DevOps workflows
 - MLOps concepts
-
----
 
 # GitHub Activity
 
@@ -196,8 +178,6 @@ I maintain repositories and learning resources aimed at helping students and eng
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
 </p>
 
----
-
 # Connect
 
 LinkedIn  
@@ -205,8 +185,6 @@ Add your profile link
 
 GitHub  
 https://github.com/atifrani
-
----
 
 # Vision
 
