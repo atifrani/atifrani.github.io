@@ -9,8 +9,6 @@
 Designing modern cloud and data platforms | AWS | Data Engineering | DevOps | MLOps
 </p>
 
----
-
 ## About Me
 
 Cloud, Data and AI Solution Architect focused on building **scalable cloud-native data platforms** and **modern data architectures**.
